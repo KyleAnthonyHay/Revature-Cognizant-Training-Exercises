@@ -1,0 +1,6 @@
+{
+  "graphs": {
+    "file_manager_agent": "./graph.py:graph"
+  },
+  "env": ".env"
+}
