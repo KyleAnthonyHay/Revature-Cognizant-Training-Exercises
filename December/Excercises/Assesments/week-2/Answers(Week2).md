@@ -1,8 +1,8 @@
-### Q1:
+### Q1: What is TensorBoard and why is it useful for training neural networks?
 
 A visualization tool that helps you see training, metrics, debugging and callbacks
 
-### Q2:
+### Q2:What is an autoencoder and what are its main components?
 
 An autoEncoder is a type of Neural network designed to learn how to compress and reconstruct user input. 
 
@@ -18,7 +18,7 @@ It does a forward pass through the layers making predictions on the way. It calc
 
 Finally, it updates the weights in that direction.
 
-### Q4:
+### Q4:Explain the difference between SGD, Adam, and RMSprop optimizers.
 
 SGD: updates weights using a fixed learning rate
 RMSprop (adaptive, good convergence): updates weights individually based on how recent gradients have behaved using average magnitude
